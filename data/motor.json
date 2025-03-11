@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Yamaha R15",
+        "img": "app/assets/xe1.jpg",
+        "publish_year": 2022,
+        "motor_type": "Sport"
+    },
+    {
+        "id": 2,
+        "name": "Honda CBR500R",
+        "img": "app/assets/xe2.jpg",
+        "publish_year": 2021,
+        "motor_type": "Sport"
+    },
+    {
+        "id": 3,
+        "name": "Kawasaki Ninja 400",
+        "img": "app/assets/xe3.jpg",
+        "publish_year": 2023,
+        "motor_type": "Sport"
+    },
+    {
+        "id": 4,
+        "name": "Ducati Monster 821",
+        "img": "app/assets/xe4.jpg",
+        "publish_year": 2020,
+        "motor_type": "Naked"
+    },
+    {
+        "id": 5,
+        "name": "Suzuki GSX-S750",
+        "img": "app/assets/xe5.jpg",
+        "publish_year": 2019,
+        "motor_type": "Naked"
+    },
+    {
+        "id": 6,
+        "name": "Harley-Davidson Iron 883",
+        "img": "app/assets/xe6.jpg",
+        "publish_year": 2022,
+        "motor_type": "Cruiser"
+    },
+    {
+        "id": 7,
+        "name": "Royal Enfield Classic 350",
+        "img": "app/assets/xe7.jpg",
+        "publish_year": 2023,
+        "motor_type": "Cruiser"
+    },
+    {
+        "id": 8,
+        "name": "BMW S1000RR",
+        "img": "app/assets/xe8.jpg",
+        "publish_year": 2021,
+        "motor_type": "Superbike"
+    },
+    {
+        "id": 9,
+        "name": "KTM Duke 390",
+        "img": "app/assets/xe9.jpg",
+        "publish_year": 2022,
+        "motor_type": "Naked"
+    },
+    {
+        "id": 10,
+        "name": "Aprilia RSV4",
+        "img": "app/assets/xe10.jpg",
+        "publish_year": 2023,
+        "motor_type": "Superbike"
+    }
+]
